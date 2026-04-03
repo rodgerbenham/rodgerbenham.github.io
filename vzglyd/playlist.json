@@ -7,7 +7,6 @@
   "slides": [
     {
       "path": "clock.vzglyd",
-      "params": { "background": [0.02, 0.02, 0.02] }
     },
     {
       "path": "air_quality.vzglyd",
